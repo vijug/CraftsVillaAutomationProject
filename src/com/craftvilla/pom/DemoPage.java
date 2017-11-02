@@ -1,5 +1,6 @@
 package com.craftvilla.pom;
 
-public class DemoPage {
+public class DemoPage 
+{
 
 }
