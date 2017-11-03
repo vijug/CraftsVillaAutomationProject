@@ -1,6 +1,16 @@
 package com.craftvilla.pom;
 
-public class DemoPage 
+import org.openqa.selenium.WebDriver;
+
+import com.craftvilla.generic.BasePage;
+
+public class DemoPage extends BasePage
 {
+
+	DemoPage(WebDriver driver) {
+		super(driver);
+		// TODO Auto-generated constructor stub
+	}
+	
 
 }
